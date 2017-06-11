@@ -7,7 +7,7 @@ This README would normally document whatever steps are necessary to get your app
 * Quick summary
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-This is my first repository. Use it as a testing ground to learn how to commit changes, push and pull commits, create new branches, merge pull requests, and deal with conflict resolutions. 
+* This is my first repository. Use it as a testing ground to learn how to commit changes, push and pull commits, create new branches, merge pull requests, and deal with conflict resolutions. 
 
 ### How do I get set up? ###
 

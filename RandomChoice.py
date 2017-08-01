@@ -8,6 +8,6 @@ def whoBuysFood(names):
 
 
 def displayResult(name):
-    print "Haha haha, " + whoBuysFood(names) + ", Python has decided that you are buying food for next week."
+    print "Haha, " + whoBuysFood(names) + ", Python has decided that you are buying food for next week."
 
 displayResult(whoBuysFood(names))
